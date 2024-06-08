@@ -1,0 +1,18 @@
+footer {
+    color: white;
+    height: 60px;
+    width: 100%;
+    position: absolute;
+    bottom: 0;
+    border-top: 1px solid #cccccc;
+    /*
+    border-width: 1px 0px 0px 0px;  top right bottom left
+    border-style: solid;
+    border-color: #cccccc;
+    */
+}
+
+p.footnote {
+    text-align: center;
+    vertical-align: middle;
+}
